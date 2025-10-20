@@ -1,0 +1,9 @@
+name: fine_dev
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - geopandas
+  - pytest
